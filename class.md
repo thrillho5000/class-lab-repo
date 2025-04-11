@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Aimee Blakemore
+- Certification: Database Engineering
 
 ## Instructions
 Please replace the placeholders with your details:
